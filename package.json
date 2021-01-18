@@ -1,0 +1,19 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "A simple todo list app using javascript.",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run live",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "live-server"
+  },
+  "author": "Prithvi",
+  "license": "ISC"
+}
